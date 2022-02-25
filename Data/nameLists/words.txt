@@ -1958,6 +1958,8 @@ Annalistic
 annals
 Annapolis
 Anne
+anneal
+annealed
 Annette
 annex
 annexation
@@ -6989,6 +6991,7 @@ canaries
 canary
 Canaveral
 Canberra
+cancan
 cancel
 canceled
 canceling
@@ -7025,6 +7028,7 @@ Canis
 canister
 canker
 cankerworm
+canna
 cannabis
 canned
 cannel
@@ -7048,6 +7052,7 @@ canny
 canoe
 canoes
 Canoga
+canola
 canon
 canonic
 canonical
@@ -8837,6 +8842,7 @@ coke
 cokes
 colander
 Colby
+colcannon
 cold
 colder
 coldest
@@ -14837,6 +14843,8 @@ enjoyed
 enjoying
 enjoyment
 enjoys
+enlace
+enlaced
 enlarge
 enlarged
 enlargement
@@ -24514,6 +24522,7 @@ lizard
 lizards
 Lizzie
 Lizzy
+Llano
 Lloyd
 load
 loaded
@@ -27342,6 +27351,7 @@ myth
 mythical
 mythologies
 mythology
+naan
 nab
 Nabisco
 nabla
@@ -27385,6 +27395,7 @@ namesake
 namesakes
 naming
 Nan
+nana
 Nancy
 Nanette
 Nanking
@@ -27620,7 +27631,9 @@ Nellie
 Nelsen
 Nelson
 nemesis
+nene
 neoclassic
+neocon
 neon
 neonatal
 neophyte
@@ -44227,6 +44240,7 @@ wanes
 Wang
 waning
 wanly
+wanna
 Wansee
 Wansley
 want
